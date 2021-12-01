@@ -11,9 +11,10 @@ namespace Design_Patterns_Assignment.Decorator
         {
         // Refactor this code so that it uses the Decorator Pattern
 
-         
+
 
             Restart:
+            Console.Clear();
             Console.WriteLine("Decorator");
             Console.WriteLine("Please enter the text.");
 
