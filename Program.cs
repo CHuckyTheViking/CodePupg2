@@ -17,10 +17,10 @@ namespace ConsoleApp1
             Observer observer = new Observer();
             Decorator decorator = new Decorator();
             
-            decorator.Run();
+           //decorator.Run();
             //repository.Run();
             //strategy.Run();
-            //observer.Run();
+            observer.Run();
         }     
     }
 }
